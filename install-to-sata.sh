@@ -7,12 +7,14 @@
 # Github:  https://github.com/bpi-codehunterz-world/Install-To-Sata
 # Description: This is a setup-script to move your root-filesystem to a sata-hdd and edit the boot-configs to boot at next time with the fresh-copied rootfs, contained on the sata-hdd mounted!
 
+reset;
+
 
 
 echo -e "Console > Installing dependencies!!!"
-sudo apt-get install -y fdisk sudo nano tree dialog
+sudo apt-get install -y fdisk sudo nano tree 
 
-reset;
+
 
 echo -e "BPI-BOOT > Configuring to boot from SATA HDD!"
 

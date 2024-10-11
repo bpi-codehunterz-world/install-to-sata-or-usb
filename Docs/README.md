@@ -6,7 +6,7 @@
 
 # 1 - Prepare the SATA HDD:
 
- - Connect the SATA HDD to your Raspberry Pi.
+ - Connect the SATA HDD to your Banana Pi.
 
  - Identify the SATA HDD by running fdisk -l in the terminal.
 
