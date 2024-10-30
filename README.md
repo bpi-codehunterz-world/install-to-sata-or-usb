@@ -2,7 +2,7 @@
 
 <b style="color:red;">**How to move ROOTFS in rasbian to SATA HDD and BOOT from SDCARD with mounting SATA HDD as ROOTFS**</b>
 
-[color="red"]GERMAN: Für die deutsche Anleitung, lies die im Docs-Ordner sich befindene LIESMICH.md Datei![/color]
+GERMAN: Für die deutsche Anleitung, lies die im Docs-Ordner sich befindene LIESMICH.md Datei!
 ENGLISCH: The Whole README is saved in the Docs-folder too!
 
 To move the root filesystem in Raspbian or Armbian to a SATA-HDD/SSD/NVMe or USB-Stick and boot from an SD card while mounting the SATA HDD as the root filesystem, follow these steps:
